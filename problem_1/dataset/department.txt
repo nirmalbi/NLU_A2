@@ -1,0 +1,255 @@
+Swapnil Thatte, Paromita Banerjee, Mayank Vatsa, Richa Singh, Bhanu Duggal, and Angshuman Paul submitted an Indian patent on "MFA-U-Net: U-Net with Multi-level Feature Aggregation for Scale-free Medical Image Segmentation," funded by TiH iHub Drishti.
+Jayant Vyas (Ph.D. student) selected as research intern (April - October) @ Accenture Labs
+Jayant Vyas selected for student travel award for IEEE VTC 2023 Conference
+Anand Mishra has been recognized as one of the Outstanding Reviewers at CVPR 2023.
+The Department of CSE welcomes its Executive M.Tech AI students for a campus immersive experience from August 1 - 5, 2022.
+ACM-W India Grad Cohort 2022 hosted by Department of CSE from July 21-22, 2022.
+Cyber-Physical Systems Innovator-Expert - Dr. Aloknath De, and IBM Distinguished Engineer - Dr. Sameep Mehta join us as Adjunct Faculty.
+Richa Singh is the Program Chair at ICMI 2022
+IIT Jodhpur and AIIMS Jodhpur proudly present their first joint patent on Automatic Speech Generation systems to help the differently-abled to communicate using vocal expressions; work done by Dr. Sumit Kalra (CSE, IITJ) and team.
+Work on NextGen Telemedicine by Dr. Sumit Kalra and Team was featured in the national meeting on "Discussion on COVID-19 Awareness in the Rural Population with Regional Coordinating Institutes", organized by Unnat Bharat Abhiyan (National Coordinator, IIT Delhi).
+Covid-19 initiatives by CSE @ IIT Jodhpur, highlighted in the July edition (Vol. IV, Issue 6) of Vigyan Prasar.
+Prof. S. Sanadhya invited as expert panelist for webinar (organized by IITJ and WhizHack) on "Building Global Career in Cyber Defense" on June 26, 2021.
+Prof. S. Sanadhya invited as expert panelist for webinar (organized by IITJ and WhizHack) on "Building Global Career in Cyber Defense" on June 19, 2021.
+Prof. Somitra Sanadhya invited as panelist for discussions on "How to become a successful Cyber Defense Professional" on May 19, 2021, 5-6pm (IST).
+Dr. Angshuman Paul joins as Assistant Professor!
+Prof. Richa Singh to serve as Program Co-Chair for CVPR-2022.
+Prof. Somitra Sanadhya to serve as organizing chair for the 18th IFIP WG 11.9 international conference on digital forensics 2022.
+Prof. M. Vatsa invited for Q&A session on "'Skilling and Opportunities in AI' by DST, Rajasthan.
+Dr. Pallavi Jain to present at AAMAS 2021
+Ms. Pratibha Choudhary will defend her Thesis on March 18, 2021 at 06:00 PM through online mode
+Dr. A. Mishra will be presenting a poster on 'Multimodal Machine Learning for Enhanced Image Understanding' under the 'Machine Learning and Big Data Analytics Track', as an invited participant at the 11th Indo German Frontier of Engineering Conference (INDOGFE 2021) - 24-26 Feb 2021.
+The AAAI-21 First International Workshop on Meta-Learning for Computer Vision (MeL4CV)" organized by M. Vatsa, R. Singh, N. Ratha, V. Patel, S. Mittal, on February 08, 2021.
+Prof. Somitra Sanadhya was invited as panelist on a discussion on "Security Research Bottleneck ... Lab, Program Set-up, Problem Statements, Industry Connects, & Data Sets" in the 'Security, Education, Research and Innovation (SERI 2020) Conference, organized by the Data Security Council of India (DSCI), on December 14, 2020. 16 December 2020
+Panel Discussion on "Higher Studies as a Career Strategy" 31 October 2020
+Suman Kundu was a Panel Member at the Workshop on Digital Humanities into the Palm of Your Hand in IEEE BigMM. Presented: "Identification of Cyberbully from Multilingual Indian Tweets" Date: Sep 26, 2020
+Anil Shukla joins the department as Assistant Professor on 08 May 2017
+Manas Khatua joins the department as Assistant Professor on 28 December 2016
+Aritra Banik joins the department as Assistant Professor on 07 March 2016
+Visit of Anil Bhansali, MD, Microsoft India (R&D)
+Ph.D. Thesis Defense
+Visit of 6-member Research & Development team from LG Software India Labs, on 30-31, July 2015
+Dr. Chiranjoy Chattopadhyay joins the department as Assistant Professor on 13 July 2015
+
+Anand Mishra served as a session chair and a workshop chair at ICFHR 2022.
+"Debasis Das gave talks on "Machine Learning in Vehicular Communications/ Networks and Security aspects in Vehicular Communications" at the SERB Karyashala on “Vehicular Communications for Next-Generation Intelligent Transportation Systems” at IIT Indore from 13th July 2022 to 19th July 2022.
+Angshuman Paul gives a talk on data-efficient machine learning methods for medical image analysis at the CSI Kolkata Chapter.
+Anghuman Paul delivers talk on 'Application of Machine/Deep Learning" on June 16 at the Indian Statistical Institute.
+Dr. Manish Gupta (Microsoft) to deliver talk on "Deep Learning Models for NLP" at the Semi-monthly Departmental Webinar on May 6, 2022
+Somitra Sanadhya and Suman Kundu gave talks at the "Cyber Jaagrukta Diwas" on May 4, 2022 - organized by the Ministry of Education and the Ministry of Home Affairs
+Rajesh Sharma, Institute of Computer Science, University of Tartu (UT), Estonia to talk on "Application of Data Science for Social Science" on May 2, 2022.
+Vinay Kulkarni, TCS Research, Pune talks on "Applied research with Enterprise focus - rationale, progress so far, and open challenges" on April 18, at the CSE Department semi-monthly webinar.
+Karthik Mohan to talk on "Learning case-studies: Recommender systems for online shopping and Task-oriented Natural Language Generation system" on March 25, 2022 at the CSE Department semi-monthly webinar
+Anand Mishra gives talk at the preconference workshop on multimodal interactions at ICMI 2022
+Brijesh Pillai and Aratrik Chatterjee from Mercedes Benz RD Pvt. Ltd, Bangalore, to talk on 'Intelligent Occupant sensing in Car Interiors' on November 12, 2021.
+Dr. Sushmita Gupta from IMSc, Chennai to talk on 'Matching under preferences: Stability to popularity' on October 29, 2021.
+Prof. S. Sanadhya to deliver a talk on post-quantum crypto in a webinar by CDoT on Tuesday from 2-4:30pm. Meeting link @ www.cdot.in
+Dr. Angshuman Paul presented a tutorial on 'Meta-Learning for Medical Image Analysis' at MICCAI 2021.
+Prof. Somitra Sanadhya to speak at the International Webinar session on How to build the fastest track for a Global Career in Cyber Defense on 6th Oct 2021.
+Dr. Sumit Kalra invited as speaker to talk on Innovations in Healthcare in the India-Sweden Innovation Challenge organized by AIIMS Jodhpur in collaboration with Business Sweden on 24th September.
+Prof. Mayank Vatsa to speak on Human-Machine Interaction on September 17, 2021 in the 'Going Virtual' session (2:30pm-6:00pm) at the Global Virtual Technology Summit 2021, presented by PANIIT.
+Dr. Chiranjoy Chattopadhyay presented an "Introduction to Immersive Technology (AR/VR) and its Application" at the Open Innovation Tech Series - VILT Session, organized by Samsung, on August 27, 2021.
+Dr. Amit Sethi (IIT Bombay) to talk on "Towards Precision Oncology using Machine Learning on Medical Images" on September 10, 2021 @5pm (IST).
+Dr. Angshuman Paul, IIT Jodhpur, to talk on Data-efficient Machine Learning for the Diagnosis of Chest Radiographs, at the Department Webinar, on August 27, 2021 at 5pm (IST)
+Pallavi Jain was invited at Dagstuhl seminar on Matching Under Preferences: Theory and Practice. She also gave a talk on Almost Stable Marriage in the seminar on July 29, 2021.
+Prof. M. Vatsa invited as expert panelist on CL Educate Presents Academia Connect (Nvidia Technology Partner) for a talk on "Path to Making India the AI Factory and Resource Pool for the World", on June 23, 2021.
+Prof. Salil Kanhere, UNSW Sydney, to talk on Transparent, Trustworthy and Privacy-Preserving Supply Chains, at the Department Webinar, on June 04, 2021 at 11am (IST).
+Prof. Somitra Sanadhya invited as panelist for discussions on "How to become a successful Cyber Defense Professional" on May 19, 2021, 5-6pm (IST).
+Mr. Bharatkumar Sharma, Nvidia, to talk on "Powering of New Era Analytics and AI using GPU", at the Department Webinar, on May 21, 2021 at 6pm (IST).
+Dr. Shridhara Chimalakonda to talk on "What is software engineering anyway? Reflections on 50 Yrs of software engineering & the Road Ahead" on May 7, 2021 at 6pm (IST).
+Prof. Kalyanmoy Deb, Koenig Endowed Chair Professor - Michigan State University, to talk on "Explainable AI (XAI) using Nonlinear Decision Trees" at the CSE Department Webinar on April 30, 2021 at 7pm (IST).
+Mr. Vinay Kulkarni, Distinguished Chief Scientist - TCS research, to talk on "Decision-making in the face of uncertainty" at the CSE Department Webinar, on April 09, 2021 at 6pm (IST)
+Prof. R. Singh and Prof. M. Vatsa to talk on "Dependable Computer Vision" on April 13, 2021 at Nvidia GTC 21
+Dr. Heena Rathore, University of Texas, SA, USA, to talk about "Brain Variable Reward Structure for Cooperative Machine Learning in IoT Network" on March 19, 2021 at 6:00 pm, IST.
+Prof. S. Sanadhya delivered an invited talk on the "Foundational Role of Mathematics in Cryptography" at the 31st Annual Conference of Rajasthan Ganita Parishad on Recent Trends of Mathematics in Sciences and Engineering (RTMSE), 13-14th March, 2021, organized by LNMIIT Jaipur (event held in online mode)
+Prof. M. Vatsa delivered an invited talk on "Artificial Intelligence and Machine Learning – Opportunities and Challenges" at the National Defence College, Delhi
+Dr. Sunpreet Arora, Staff Research Scientist at Visa Research, to talk about "Privacy-Preserving Digital Identity Platform" on March 1, 2021 at 7:30 pm, IST.
+A. Mishra to speak on "Introduction to Neural Networks" at the "International Research Workshop on Advances in Deep Learning and Applications (WADLA 2021)", organized by IIIT Sri City, Chittor, on February 22, 2021.
+Prof. Sajal K. Das, Missouri University of Science and Technology, USA, to talk about "From Smart Sensing to Smart Living" in Department Webinar on February 1, 2021 at 7:30 pm, IST.
+Dr. Nimrod Talmon, Ben-Gurion University, Be'er Sheva, Israel, to talk about "Participatory Budgeting - Making Budgeting Great Again" in Department Webinar on January 4, 2021. 23 December 2020
+Prof. Nalini K. Ratha, an Empire Innovation Professor at University at Buffalo -- SUNY, gave a talk on "Trustworthy AI Systems" in Department webinar on December 21, 2020. 22 December 2020
+Prof. Somitra Sanadhya and Dr. Debasis Das were Keynote Speakers in the Management Development Program (MDP) on "Cybersecurity: Contemporary Issues, Challenges and Countermeasures", organized by the School of Management & Entrepreneurship, IIT Jodhpur, on December 12-13, 2020. 15 December 2020
+Dr, Ishan Misra, Research Scientist at Facebook AI Research, to talk about "Multi-view invariance and grouping for self-supervised learning" in Department webinar on December 7, 20202 at 5:45 pm. 04 December 2020
+Prof. Saket Saurabh, Institute of Mathematical Sciences, Chennai, to talk about "Picking Random Vertices" in Department Webinar on October 19, 2020. 17 October 2020
+Invited Lecture by Prof. Mayank Vatsa at the prestigious Responsible AI for Social Empowerment (RAISE 2020). Visit: https://raise2020.indiaai.gov.in/speakers 06 October 2020
+Dr. Anush Sankaran, Senior Research Scientist, Deeplite, Canada, to talk about "Why do we need to Optimize Deep Learning Models?" in the Departmental Webinar on October 5th, 2020. 05 October 2020
+Invited Talk by Debarati Chakraborti on 'Granulated Video Computing', Research Oriented International Webinar Series (ROIWS -2020), at Government Engineering College, Jagdalpur, Chhattisgarh, India, 13th September, 2020
+Invited Lecture on “Internet of Things(IoT) Security for Smart Cities”, at Rajasthan Technical University, Kota and Poornima College of Engineering, Jaipur, by Debasis Das, September, 2020.
+Invited Talk on “Reading text in scene images, connecting it to the world knowledge and beyond”, at Deep Learning for Computer Vision Session, SPCOM’2020 (virtual), IISc Bangalore, by Anand Mishra.
+Guest Lecture by Pallavi Jain on “Parameterized Complexity” at Ben-Gurion University, Israel, June 2020.
+Invited Talk on “Machine Learning and its Application on Society”, at Mahadevananda Mahavidyalaya and WBSU, West Bengal, India, by Dr. Debasis Das, June 2020.
+Invited Talk on “Recommendation Systems based on Driver Stress and Behavior”, at the Institute Mihajlo Pupin, Belgrade, Serbia, by Debasis Das, June 2020.
+Invited Talk on “Vehicular Cloud-based Secure and Energy-Efficient Communication and Searching System for Smart Transportation”, at AICTE-ATAL and NIT Surathkal, karnataka, by Debasis Das, May 2020.
+Lecture on "GPU Acceleration in General Purpose Computing" 
+by Dr. Subhasis Banerjee, IBM Systems Lab
+Lecture Series on Machine Learning by Microsoft India ( 17th Feb to 2nd April)
+
+Swapnil Thatte, Paromita Banerjee, Mayank Vatsa, Richa Singh, Bhanu Duggal, and Angshuman Paul submitted an Indian patent on "MFA-U-Net: U-Net with Multi-level Feature Aggregation for Scale-free Medical Image Segmentation," funded by TiH iHub Drishti.
+Jayant Vyas (Ph.D. student) selected as research intern (April - October) @ Accenture Labs
+Jayant Vyas selected for student travel award for IEEE VTC 2023 Conference
+Anand Mishra has been recognized as one of the Outstanding Reviewers at CVPR 2023.
+The Department of CSE welcomes its Executive M.Tech AI students for a campus immersive experience from August 1 - 5, 2022.
+ACM-W India Grad Cohort 2022 hosted by Department of CSE from July 21-22, 2022.
+Cyber-Physical Systems Innovator-Expert - Dr. Aloknath De, and IBM Distinguished Engineer - Dr. Sameep Mehta join us as Adjunct Faculty.
+Richa Singh is the Program Chair at ICMI 2022
+IIT Jodhpur and AIIMS Jodhpur proudly present their first joint patent on Automatic Speech Generation systems to help the differently-abled to communicate using vocal expressions; work done by Dr. Sumit Kalra (CSE, IITJ) and team.
+Work on NextGen Telemedicine by Dr. Sumit Kalra and Team was featured in the national meeting on "Discussion on COVID-19 Awareness in the Rural Population with Regional Coordinating Institutes", organized by Unnat Bharat Abhiyan (National Coordinator, IIT Delhi).
+Covid-19 initiatives by CSE @ IIT Jodhpur, highlighted in the July edition (Vol. IV, Issue 6) of Vigyan Prasar.
+Prof. S. Sanadhya invited as expert panelist for webinar (organized by IITJ and WhizHack) on "Building Global Career in Cyber Defense" on June 26, 2021.
+Prof. S. Sanadhya invited as expert panelist for webinar (organized by IITJ and WhizHack) on "Building Global Career in Cyber Defense" on June 19, 2021.
+Prof. Somitra Sanadhya invited as panelist for discussions on "How to become a successful Cyber Defense Professional" on May 19, 2021, 5-6pm (IST).
+Dr. Angshuman Paul joins as Assistant Professor!
+Prof. Richa Singh to serve as Program Co-Chair for CVPR-2022.
+Prof. Somitra Sanadhya to serve as organizing chair for the 18th IFIP WG 11.9 international conference on digital forensics 2022.
+Prof. M. Vatsa invited for Q&A session on "'Skilling and Opportunities in AI' by DST, Rajasthan.
+Dr. Pallavi Jain to present at AAMAS 2021
+Ms. Pratibha Choudhary will defend her Thesis on March 18, 2021 at 06:00 PM through online mode
+Dr. A. Mishra will be presenting a poster on 'Multimodal Machine Learning for Enhanced Image Understanding' under the 'Machine Learning and Big Data Analytics Track', as an invited participant at the 11th Indo German Frontier of Engineering Conference (INDOGFE 2021) - 24-26 Feb 2021.
+The AAAI-21 First International Workshop on Meta-Learning for Computer Vision (MeL4CV)" organized by M. Vatsa, R. Singh, N. Ratha, V. Patel, S. Mittal, on February 08, 2021.
+Prof. Somitra Sanadhya was invited as panelist on a discussion on "Security Research Bottleneck ... Lab, Program Set-up, Problem Statements, Industry Connects, & Data Sets" in the 'Security, Education, Research and Innovation (SERI 2020) Conference, organized by the Data Security Council of India (DSCI), on December 14, 2020. 16 December 2020
+Panel Discussion on "Higher Studies as a Career Strategy" 31 October 2020
+Suman Kundu was a Panel Member at the Workshop on Digital Humanities into the Palm of Your Hand in IEEE BigMM. Presented: "Identification of Cyberbully from Multilingual Indian Tweets" Date: Sep 26, 2020
+Anil Shukla joins the department as Assistant Professor on 08 May 2017
+Manas Khatua joins the department as Assistant Professor on 28 December 2016
+Aritra Banik joins the department as Assistant Professor on 07 March 2016
+Visit of Anil Bhansali, MD, Microsoft India (R&D)
+Ph.D. Thesis Defense
+Visit of 6-member Research & Development team from LG Software India Labs, on 30-31, July 2015
+Dr. Chiranjoy Chattopadhyay joins the department as Assistant Professor on 13 July 2015
+
+
+The Department of Mathematics is dedicated to advancing the fields of pure mathematics, applied mathematics and statistics. Our vision is to emphasize both the fundamental principles of core mathematics and the foundational concepts essential for analyzing key principles applied in cutting-edge technologies. Since its establishment, the department has been actively engaged in research across various critical areas of mathematics and computing.
+
+The department also aimed to explore modern aspects of mathematics coupled with computational capabilities to develop a workforce specialized in mathematical aspects of key technologies. With this inclination, the department initiated academic programs to address the mathematical needs of both industry and academia. Currently, we offer various programmes, namely, a two-year M.Sc. program in Mathematics, a four-year M.Sc-M.Tech program in Mathematics-Data and Computational Sciences, a two year M.Tech program in Data and Computational Sciences, an Integrated Teacher in Education Program (ITEP) with specialization in Mathematics, and a Ph.D. Program with specialization in different areas of Mathematics, computing and Data and Computational Sciences. The department also offers a Minor program in Data Science for the UG students.
+
+The department faculty are active researchers in different areas, namely, Algebra, Complex Analysis, Topological Dynamics, LowDimensional Chaos, Renormalization in Low-dimensional dynamics, Dynamics in Neuroscience, Mathematical Physics, Scientific Computation, Numerical Analysis, Optimization Techniques, Partial Differential Equations, Wavelet Analysis, Fractional Transform Theory, Image Processing, Financial Risk Analysis, Categorical Data Analysis, Reliability Theory, Financial Mathematics and Applied Probability. The department has all necessary research infrastructures including High Performance Computing.
+
+Mathematics, being the basis of many disciplines, is a subject that evolves with time and creates new theories to solve real-world challenging problems. Our department has been taking a leading role in developing new methods to model such situations that can be used in diverse areas of computer science, engineering, and basic sciences. The department has faculty with research interests in the areas of Algebra, Mathematical Physics, Scientific Computation, Numerical Analysis, Partial Differential Equations, Topological Dynamics, Low Dimensional Chaos, Dynamical Systems, Renormalization in Low-dimensional dynamics, Wavelet Analysis, Fractional Transform Theory, Image Processing, Financial Risk Analysis, Categorical Data Analysis, Reliability Theory, Applied Probability.
+
+We are excited to offer high-quality programs at postgraduate level for students who wish to apply math to science or engineering such as a two-year M.Sc. program in Mathematics, a four-year M.Sc-M.Tech program in Mathematics-Data and Computational Sciences, a two year M.Tech program in Data and Computational Sciences. We also offer an M.Tech-Ph.D. dual degree program in Data and Computational Sciences and a Ph.D. Program with specialization in different areas of Mathematics to those who wish to earn a deeper understanding of pure and applied Mathematics.
+
+Welcome To The Department of Physics
+The subject of Physics is inherently a natural science subject based on strong theoretical foundations and experimental findings. The subject closely intersects with almost all the branches of engineering and the current research activities of physics across the world made a huge impact on new, advanced, and emerging technologies. Keeping these facts into consideration, our Department is committed to imparting high-quality education based on a strong academic curriculum comprising elements of theoretical concepts, laboratory experiments, and most importantly hands-on experiments. The graduates of the Department are expected to have deep insight into the domain of Physics together with a strong bent of mind to pursue cutting-edge research and translate it into technology.
+
+We offer a broad range of undergraduate and postgraduate programs. Our 4 Year BS in Physics with specialization is a technology-oriented science program and offers specialization in physics-based emerging technology domains. The program also has the flexibility to convert into a 5 Year BS + M.Tech. dual degree course. At the postgraduate level, we have four-degree programs viz. M.Sc. (2 years), M.Sc.-M.Tech Dual Degree in Physics and Materials Engineering. The dual degree program also has additional two specializations namely Functional Materials and Computational Materials Engineering. Finally, our Ph.D. program empowers scholars to pursue research in various domains.
+
+Research Areas
+The department has a very good blend of highly qualified young and experienced faculty members in the areas of advanced physics. The department is also equipped with a number of thematic laboratories which enable the students to carry out high-end and impactful theoretical and applied research in the following focus areas:
+
+Research Areas of physics department
+Research Areas
+High Energy Physics and Astrophysics
+
+Theoretical research in domains; Flavour physics, Astrophysics, Particle physics, Cosmology, and Dark matter and Dark energy. Experimental research in flavor physics with the Belle II Experiment.
+
+Quantum Physics
+
+Open Quantum Systems, Theoretical and Experimental aspects of Quantum Optics & Quantum Information, Quantum Field Theory, Quantum Statistical Mechanics and Quantum Cosmology.
+
+Condensed Matter and Plasma Physics Group
+
+Experimental and Theoretical Research on Molecular electronics, Organic electronics, Cold Plasma Technologies and applications, Energy Storage, Solar cells, Light emitting diodes, Solar water splitting, Soft Matters, Statistical Physics, Computational Physics, Multiscale Modelling, Phase ordering dynamics, Glasses, Amorphous solids, Polymers and Solid Electrolyte materials, Physics of Living Matter, Active Matter Physics, Functional Materials, Materials Design and Engineering, Nanomagnetism and Multiferroics.
+
+Optics and Photonics
+
+Theoretical and Experimental Research in Nano Photonics, Light in disordered media, Ultrafast Optics, Nonlinear Optics, Topological Singularities, Specially Optical Fibers, Photonic sensors, Time Dynamic systems, Terahertz generation and application, Transient and Steady-state Spectroscopy, Bound state in the continuum, Disorder Photons and Light Matter Interaction and Ceramic materials for high energy laser applications.
+
+Candidates interested in pursuing Ph.D., please go through the Research groups and visit the individual faculty's home pages. The application can be submitted with this link.
+
+Infrastructure
+The department is equipped with high-end research equipment which includes SQUID magnetometer, Physical Property Measurement Systems (PPMS), Raman Spectrometer, and Scanning Tunnelling Microscope (STM) besides a host of other advanced characterization equipment which is available at the Centre for Research & Development of Scientific Instruments (CRDSI).
+
+Collaborations
+The department is having close collaboration with a number of National and International agencies including DRDO, ISRO, DAE, CSIR, DST, and SERB. Department Faculties also have collaborations with various Institutes of National and International repute, namely TIFR, IIT Bombay, IIT Gandhinagar, IIT BHU, Central University of Rajasthan, University of Montreal, Canada, University of Warsaw Poland, Brookhaven National Laboratory USA, ETH Zurich Switzerland, IMEM Parma Italy, INFN Turino, Italy, CMU Pittsburgh USA, Belle II KEK Japan etc.
+
+
+The Department of Mechanical Engineering at IIT Jodhpur is devoted to quality engineering education and pursuits the excellence in research. It is dedicated to preparing students to face the emerging challenges faced by society. The vision of the Department is to translate its research and to innovate in pedagogy to enable ignited young minds to find technological solutions for upcoming challenges. The Department offers B. Tech. M. Tech. and Ph.D. in Mechanical Engineering within three major domains of Thermofluids, Design, and Smart Manufacturing. The students also have the opportunity to work with an interdisciplinary specialization in emerging areas such as Artificial Intelligence (AI), Internet of things (IoT), Smart Healthcare, and Cyber-Physical Systems (CPS).
+
+At IIT Jodhpur, mechanical engineers are educated in a way not only to adapt but to define direct change. This is reflected in the portfolio of the current activities of the Department. Faculty members are involved in a wide range of projects in the areas of energy conversion and power systems, heat transfer and fluid mechanics, mechanics of solid, mechanical vibrations, robotics, autonomous unmanned vehicles, design optimization, acoustics and noise control, control systems, rotor dynamics, nanomaterials, biomechanics, bio-inspired thermo-fluids, fluid-structure interaction, etc. to name a few. Additionally, efforts are being made to introduce advanced concepts like smart manufacturing, Industry 4.O, Smart scientific computing techniques, high-performance computing, applications of artificial intelligence, machine learning algorithms, sensors, and IoT as a part of solving interdisciplinary problems requiring mechanical engineering know-how. Keeping a balance between theory and hands-on experience, the Department intends to provide its students with a solid foundation in core as well as emerging areas of mechanical engineering by inspiring critical thinking and nurturing problem-solving skills.
+
+The department has active collaborations with AIIMS Jodhpur, General Electric, Thermax, DRDO, ISRO, TCS Innovation Lab, TVS Motor Company to name a few. The department has been attracting various sponsored projects from R&D organizations since its inception.
+
+
+
+Welcome To The Department of Materials Engineering
+The Department of Materials Engineering at IIT Jodhpur was established in 2017, and the Department is committed to high-quality education and research in the broad area of Materials Engineering. The Department continuously strives for excellence in teaching and research through innovative pedagogy and curriculum, by undertaking interdisciplinary projects, and through active collaborations with industries, R&D labs, and academia. By enabling the students to think independently and equipping them with relevant skill sets, our goal is to encourage the graduates to innovate and address present-day materials challenges to meet the needs of the country.
+
+At present, the Department offers B.Tech., M.Tech., and Ph.D. programs. The Department's teaching and research activities cover four major streams- structural materials, functional materials, computational materials engineering, and process metallurgy. From structural materials to semiconductors, we attempt to understand the processing, composition and structure, properties, and performance of materials for deriving novel, effective, and sustainable alternatives. Currently, efforts are being made to introduce advanced concepts such as smart materials, additive manufacturing, artificial intelligence and machine learning, sensor materials, etc., as a part of solving interdisciplinary problems requiring Materials Engineering knowledge.
+Head of the Department
+The Department of Materials Engineering at IIT Jodhpur is working towards building future generation minds rich in skills and innovation to be the best in the outside world. Faculty Members in the department have expertise in diverse areas of Materials Engineering. They are actively involved in conducting translational research in the fundamental and applied areas of Materials Engineering. The department frequently organizes invited lectures and workshops to share research findings, train students on the state-of-the-art experimental and computational techniques to promote the development of skill sets.
+
+The Department welcomes bright people who aspire to utilize the power of ambitious research and teaching to shape a better future.
+
+Materials Design and Processing
+Advanced Structural and Functional Materials
+Computational Materials Engineering
+Extractive and Process Metallurgy
+Materials Testing and Characterization
+Head of the Department image
+
+
+Welcome to the Department of Electrical Engineering
+The Department of Electrical Engineering primarily focuses on imparting quality education and preparing students to face future technological challenges. The vision of the Department is to enhance the research environment and to innovate in pedagogy to address the challenges of socio-economic and human resource development.
+
+The Department is committed to engage in high-quality research by Faculty Members and Students, and in the pursuit of excellence in teaching. The Department offers B.Tech. in Electrical Engineering with broad range of major and minor specializations and three state-of-the-art M.Tech. programs in Sensors and Internet of Things (SIoT), Cyber Physical Systems (CPS), and Intelligent Communication Systems (ICS).
+
+The Department also runs dual degree (M.Tech. + Ph.D.) programs in Intelligent Communication Systems, Sensors and Internet of Things (SIoT) and Cyber Physical Systems (CPS) as well as Ph.D. program with a broad range of specializations covering detailed aspects of Microelectronics, Signal Processing, Communication, Microwave & Photonics, Power systems, Control systems etc. The Department is also starting a new Executive MTech Program in Intelligent VLSI Systems (for working professionals) from July 2022.
+
+The prospective undergraduate and postgraduate students are encouraged to visit the Academic Programs (UG Program, PG Programs and Doctoral Programs) page of the Department to know more about the details of courses offered in the department.
+
+To know more about the current research themes of the faculty members, the prospective students are encouraged to visit the Research Overview page of the Department. Technology Tracks currently pursued by the Department include emerging and challenging fields that culminate at the intersection of several traditional research areas.
+
+Current Technology Tracks
+5G-Beyond-Communication	Signal-Processing		Nanoelectronics-Integrated	Smart-Grid	Embedded-Computing	Artificial-Intelligence
+Active collaboration is on-going with organizations like Freescale Semiconductors, Global Foundries, AIIMS Jodhpur, DST, DRDO, and ISRO, to name a few. The Department has been attracting various sponsored projects from R&D organizations since its inception.
+
+
+
+Welcome To The Department of Chemical Engineering
+Translation of molecular information into discovery of new products and processes with Industry 4.0+ 
+Vision & Mission of the Department
+To become a globally recognized department of chemical engineering through its contribution in emerging and demand-driven areas with multidisciplinary approach.   
+
+The Department of Chemical Engineering offers under-graduate (B.Tech.) and post-graduate (M.Tech., M.Tech.-Ph.D. and Ph.D.) programs in chemical engineering. Through the academic programs, the department is making a conscious effort to establish itself as a leading institute in the new genre of chemical engineering education. The program involves traditional courses, emerging areas and specialisations such as process engineering intelligence, molecular engineering and sustainability.
+
+In line with the new education policy, B.Tech. (Chemical Engineering) students will have unique opportunity and flexibility for:
+
+Minor in (a)Management (b)Entrepreneurship (c)Data Science
+Five year B.Tech.+M.Tech./ MBA
+One year Engineering Innovation opportunity
+
+
+Traditionally, chemical engineering teaching focuses on subjects like material and energy balance, transport phenomena, thermodynamics, mass transfer, heat transfer, fluid mechanics, chemical reaction engineering, numerical analysis, computational systems, biotechnology, petroleum-petrochemicals, polymers and safety engineering. With the advent of the era of Industry 4.0 in chemical companies, artificial intelligence (AI), machine learning (ML), data analytics, internet of things (IoT), molecular engineering, nano-composites; the discipline is being transformed by the incorporation of new emerging technologies and demand-driven areas.
+
+The department is keen on collaboration with industry and academia worldwide. At present, Chemical Engineering Department is sharing its expertise with the Department of Drinking Water and Sanitation (DDWS), Ministry of Jal Shakti; Defence Research and Development Organisation (DRDO), Ministry of Defence; International Atomic Energy Agency (IAEA) etc. Department has signed MoU with the industries for providing consultancy services. Department is also actively involved in Scientific Social Responsibility (SSR) through Unnat Bharat Abhiyan (UBA) and other societal initiatives.
+
+Department has research interest in core and emerging areas; and is looking for faculty members in different areas of chemical engineering. Prospective candidates are encouraged to visit our recruitment page and apply.
+
+Welcome to the Department of Bioscience & Bioengineering
+The Department of Bioscience & Bioengineering at IIT Jodhpur, established in 2009 offers a B.Tech. program in Bioengineering, an M.Tech. and M.Tech-Ph.D. dual degree programs in Bioscience & Bioengineering. Our programs are uniquely designed to inspire innovations in biotechnology, engineering, and medicine from an understanding of  biological systems.  This capacity building is assuming importance in the present times for providing solutions to societal problems in trans-disciplinary frameworks. A major focus is on neurosciences and neurodegenerative disorders, mechanistic biology, environmental and medical microbiology, computational biology, precision health, and bioprospecting for novel molecules and bio-actives from natural resources of the Thar ecoregion. We also offer a competitive Ph.D. program to inculcate scientific temper, independent thinking, and skillsets for scientific entrepreneurship. We encourage and provide avenues for the participation of bioengineering graduates with diverse engineering disciplines to develop technologies for:
+
+Affordable and Smart Healthcare
+Clean Environment
+Precision Medicine and Health
+Sustainable and Affordable Energy
+Faculties at the department with wide-ranging expertise,  conduct fundamental and translational research in focus areas that are contemporary and aligned to major sustainable development goals. We are passionate about research and actively communicate our science through regular outreach programs.
+
+outreach programs
+
+
+
+
+
+Message from the Head of the Department
+Message from the Head of Bioscience and Bioengineering
+Assoc. Prof. Neha Jain (Acting Head BSBE)
+
+Email: head_bb@iitj.ac.in, Phone: 0291 280 1201
+
+Bioscience and Bioengineering are pivotal to India's growth. driving innovation and advancing technology in healthcare. Agriculture and environmental sustainability. The Department of Bioscience & Bioengineering at IIT Jodhpur plays a key role in implementing diverse advanced biological research areas within these fields. with a strong focus on fostering research and development (R&D) and entrepreneurship.
+
+By offering a multidisciplinary platform that integrates cutting-edge research in drug discovery, genomics, and affordable and integrative precision healthcare solutions. Big Data Biology and bioinformatics. In addition. The department actively promotes entrepreneurship by providing incubation support, facilitating industry collaborations, and encouraging the growth of startup ventures in biosciences.
+
+With access to advanced research facilities and guidance from expert faculty members, students can transform their ideas into practical, marketable solutions, benefiting industries such as healthcare, agriculture, and biomanufacturing.
+
+BSBE Department, IIT Jodhpur, emphasizes interdisciplinary research in the near future, which may also align with national initiatives like the BioE3 policy to promote R&D, commercialization, and the establishment of bioeconomy hubs. The curriculum is thoughtfully designed to meet the diverse aspirations of students entering the fields of biosciences and bioengineering. This approach not only strengthens the academic peers ecosystem but also creates employment opportunities and enhances societal well-being.
